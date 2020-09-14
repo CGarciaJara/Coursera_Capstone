@@ -1,0 +1,9 @@
+Data and how it will be used to solve the problem
+
+  For this effort we will use the dataset offered in the course. Originally the data was published by the City of Seattle (3) The “All collisions” file is provided by SPD and recorded by Traffic Records. The data is provided as a CSV that is exported from the ArcGIS (4) program used by the city. The application provides geographical data but also 35 other fields with pertinent data for our research. In particular our model will work on predicting SEVERITYCODE, specially fatalities, code 3.
+  
+	 The current data set has 195K records including all types of collisions from 2004 to present. This data includes valuable fields like collision type, date of incident, number of persons injured or dead, if the driver was under the influence, weather, id the vehicle was speeding among others. 
+
+
+(3) SDOT Traffic Management Division, Traffic Records Group. https://www.seattle.gov
+(4) www.esri.com ArcGIS
