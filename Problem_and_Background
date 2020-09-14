@@ -1,7 +1,9 @@
 Problem and Background
 
 	According to the National Safety Council (nsc.org) during 2019 and 2018 the US experience a decline in the number of roadway deaths. It is estimated in 2019 approximately 38,000 people lost their lives due to car crashes. Even though this decline is encouraging the total of people seriously injured in 2019 were 4.4 million(1). This numbers shows why traffic accidents are an important public safety challenge. Further more, in a global perspective, recent projections have estimated that as income and vehicle ownership levels rise in the developing world, “the global number of road traffic deaths would increase by approximately two-thirds by the year 2020” (2). This explains why information is needed in order to guide local and national governments in what are the driving factors and how to prevent car accidents and fatalities. 
+	
 	We believe that using data and the proper analysis we can create prediction models, using data analytics.
+	
 	Once a solid model is developed we may be able to apply it to different cities and  countries, not only US. 
 
 (1) The National Safety Council. Motor Vehicle Deaths Estimated to Have Dropped 2% in 2019. 
